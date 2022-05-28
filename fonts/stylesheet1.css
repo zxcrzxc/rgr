@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mondo';
+    src: local('Mondo Bold'), local('Mondo-Bold'),
+        url('Mondo-Bold.woff2') format('woff2'),
+        url('Mondo-Bold.woff') format('woff'),
+        url('Mondo-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
